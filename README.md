@@ -1,2 +1,2 @@
 # priya repo
- priya sample remo
+ priya sample repo
